@@ -1,0 +1,5 @@
+hero-bg: https://d2xsxph8kpxj0f.cloudfront.net/310519663485897224/MofiVVvCY2VNzcivHq9rXM/hero-bg-N4KwYQ363VXTeDeDJM2pda.webp
+iphone-repair: https://d2xsxph8kpxj0f.cloudfront.net/310519663485897224/MofiVVvCY2VNzcivHq9rXM/iphone-repair-gEqT9WSB93Njr2EGs78LFc.webp
+samsung-repair: https://d2xsxph8kpxj0f.cloudfront.net/310519663485897224/MofiVVvCY2VNzcivHq9rXM/samsung-repair-mhP8dd6xmHD6QSJ2UynfCR.webp
+tablet-repair: https://d2xsxph8kpxj0f.cloudfront.net/310519663485897224/MofiVVvCY2VNzcivHq9rXM/tablet-repair-jHd7SxmYBMAvTGxiHcbZWL.webp
+console-repair: https://d2xsxph8kpxj0f.cloudfront.net/310519663485897224/MofiVVvCY2VNzcivHq9rXM/console-repair-iFyDZd48TPFJ7LiCP4nRa4.webp

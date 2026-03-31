@@ -1,0 +1,18 @@
+Contact page review:
+- The contact cards on the left side are barely visible - likely the motion animation is not triggering because they're already in view
+- The map area on the right is blank/loading (Google Maps may need time)
+- The content is all there per the markdown extraction
+- Need to check if whileInView animations are working properly for above-fold content
+
+Homepage review:
+- Hero looks great with the dark overlay and red accent
+- Stats bar, guarantees, services grid all rendering well
+- Service cards with images look polished
+- Quote page multi-step funnel works well
+
+iPhone repair page:
+- Hero with service image looks good
+- Pricing table renders correctly
+- Features list visible
+
+Overall: The site is working well. Main issue is contact page animations for above-fold content.
