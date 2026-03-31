@@ -51,13 +51,13 @@ const contactInfo = [
 ];
 
 const hours = [
-  { day: "Monday", time: "10:00 AM - 7:00 PM" },
-  { day: "Tuesday", time: "10:00 AM - 7:00 PM" },
-  { day: "Wednesday", time: "10:00 AM - 7:00 PM" },
-  { day: "Thursday", time: "10:00 AM - 7:00 PM" },
-  { day: "Friday", time: "10:00 AM - 7:00 PM" },
-  { day: "Saturday", time: "10:00 AM - 7:00 PM" },
-  { day: "Sunday", time: "Closed" },
+  { day: "Monday", time: "8:00 AM - 8:00 PM" },
+  { day: "Tuesday", time: "8:00 AM - 8:00 PM" },
+  { day: "Wednesday", time: "8:00 AM - 8:00 PM" },
+  { day: "Thursday", time: "8:00 AM - 8:00 PM" },
+  { day: "Friday", time: "8:00 AM - 8:00 PM" },
+  { day: "Saturday", time: "8:00 AM - 8:00 PM" },
+  { day: "Sunday", time: "10:00 AM - 5:00 PM" },
 ];
 
 export default function Contact() {
@@ -144,7 +144,7 @@ export default function Contact() {
                         <span className={isToday ? "font-semibold text-[#e60000]" : "text-muted-foreground"}>
                           {h.day} {isToday && "(Today)"}
                         </span>
-                        <span className={`font-medium ${h.time === "Closed" ? "text-muted-foreground" : ""}`}>
+                        <span className="font-medium">
                           {h.time}
                         </span>
                       </div>

@@ -275,8 +275,8 @@ function Footer() {
               <li className="flex items-start gap-2.5 text-sm text-muted-foreground">
                 <Clock className="w-4 h-4 mt-0.5 shrink-0" />
                 <div>
-                  <p>Mon - Sat: 10:00 AM - 7:00 PM</p>
-                  <p>Sunday: Closed</p>
+                  <p>Mon - Sat: 8:00 AM - 8:00 PM</p>
+                  <p>Sunday: 10:00 AM - 5:00 PM</p>
                 </div>
               </li>
             </ul>
